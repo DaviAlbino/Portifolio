@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(51, 51, 33);
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://www.significadofacil.com/wp-content/uploads/2019/07/background-1200x675.jpg);
+}
+
+h1 {
+    color: rgb(255, 242, 242);
+    text-align: center;
+    background-color: rgb(51, 51, 40);
+    font-style:italic;
+}
+
+.my-photo {
+    border-radius: 100%;
+    float:right;
+    width: 350px;
+}
+
+.about-me{
+    color: rgb(255, 242, 242);
+    font-size: 20px;
+    width: 70%;
+    background-color: rgb(51, 51, 40);
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-bottom: 40px;
+    padding-right: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+.my-link{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.my-skills{
+    background-color: rgb(51, 51, 40);
+    border-radius: 25px;
+    width: 70%;
+    color: rgb(255, 242, 242);
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-decoration:dotted;
+}
+
+#icons{
+    width: 50px;
+    top: 70px;
+    left: 500px;
+}
+
+a:hover{
+    background-color: green;
+}
